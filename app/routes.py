@@ -1,4 +1,4 @@
-# app/routes.py: Home page route
+# app/routes.py: default route page
 from app import app1
 
 @app1.route('/')
